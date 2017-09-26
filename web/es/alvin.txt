@@ -1,0 +1,14 @@
+Alvin and the Chipmunks is a live-action film series, based on the characters of the same name created by Ross Bagdasarian. The films are produced by Janice Karman and Ross Bagdasarian and released by 20th Century Fox. Wikipedia 
+Characters: Ian Hawke, Toby Seville, Alvin Seville, Xander, more
+Directors: Betty Thomas, Mike Mitchell, Tim Hill
+Production companies: 20th Century Fox, Dune Entertain
+
+insert into stock_master(cast,director,diskid,img,price,quantity,sname,version,year) values(' Rica Matsumoto, Ikue Otani, Megumi Hayashibara','Kunihiko Yuyama, James Malone',10,'C:\Users\kiosk\Documents\NetBeansProjects\Rentertainment_J2EEWebApp\web\res\pokemon4ever.jpg',150,10,'Pokemon 4ever','ENGLISH','2001');
+
+insert into stock_master(cast,director,diskid,img,price,quantity,sname,version,year) values('Brad Bird, Bob Peterson, Kathy Greenberg, Emily Cook','Brad Bird, Jan Pinkava',11,'C:\Users\kiosk\Documents\NetBeansProjects\Rentertainment_J2EEWebApp\web\res\ratatouille.jpg',100,10,'Ratatouille','ENGLISH','2007');
+
+insert into stock_master(cast,director,diskid,img,price,quantity,sname,version,year) values('Edgar Wright, Michael Bacall','Edgar Wright',12,'C:\Users\kiosk\Documents\NetBeansProjects\Rentertainment_J2EEWebApp\web\res\scottpilgrim.jpg',100,10,'Scott Pilgrim V.s. The World','ENGLISH','2010');
+
+
+insert into stock_master(cast,director,diskid,img,price,quantity,sname,version,year) values('Adam Sandler, Robert Smigel, Judd Apatow','Dennis Dugan',13,'C:\Users\kiosk\Documents\NetBeansProjects\Rentertainment_J2EEWebApp\web\res\udontmesswiththezohan.jpg',100,10,'You Dont Mess With The Zohan','ENGLISH','2008');
+

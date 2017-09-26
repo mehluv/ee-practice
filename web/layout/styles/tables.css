@@ -1,0 +1,6 @@
+@charset "utf-8";
+table{width:100%; border-collapse:collapse; table-layout:auto;background-color:rgba(219, 214, 214, 1); vertical-align:top;display: block;color: white;border:0px;}
+table thead td{color:#FFFFFF; background-color:#666666; border:1px solid #CCCCCC; font-style:Verdana ;border-collapse:collapse; text-align:center; table-layout:auto; vertical-align:middle;}
+table tbody td{vertical-align:top; border-collapse:collapse;padding:5px;}
+table thead th, table tbody {padding:5px; border-collapse:collapse;}
+table tbody tr{color:#666666; background-color:rgba(219, 214, 214, 1);}
